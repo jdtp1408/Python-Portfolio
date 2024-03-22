@@ -18,7 +18,3 @@ print(spacy.explain("PERSON"))
 
 # The entity was Mississipi, which is categorized under GPE, representing countries, cities and states. The entity did make sense in terms of the word associated with it.
 print(spacy.explain("GPE"))
-
-# 
-
-
